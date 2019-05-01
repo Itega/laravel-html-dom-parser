@@ -1,5 +1,5 @@
 {
-    "name": "ammadeuss/laravel-html-dom-parser",
+    "name": "itega/laravel-html-dom-parser",
     "description": "Laravel wrapper for the PHP Simple HTML DOM Parser package",
     "keywords": [
         "dom parser",
@@ -11,12 +11,16 @@
         "illuminate/support": "^5.*",
         "daguilarm/php-simple-html-dom-parser": "^1.5.*"
     },
-    "homepage": "https://github.com/ammadeuss/html-dom-parser",
+    "homepage": "https://github.com/itega/html-dom-parser",
     "license": "MIT",
     "authors": [
         {
             "name": "Ammadeuss Raducan",
             "email": "raducan@ammadeuss.ro"
+        },
+        {
+            "name": "Julien Zolli",
+            "email": "contact@julienzolli.dev"
         }
     ],
     "autoload": {
