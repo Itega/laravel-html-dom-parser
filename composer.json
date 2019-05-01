@@ -9,7 +9,7 @@
     "require": {
     	"php": ">=5.6",
         "illuminate/support": "^5.5",
-        "daguilarm/php-simple-html-dom-parser": "^1.5.2"
+        "kub-at/php-simple-html-dom-parser": "^1.8.1"
     },
     "homepage": "https://github.com/itega/html-dom-parser",
     "license": "MIT",
